@@ -1,0 +1,22 @@
+{
+  "name": "mern_ecommerce",
+  "version": "1.0.0",
+  "description": "mern eccomerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trailblazer780/mern-ecommerce.git"
+  },
+  "author": "Trailblazer780",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trailblazer780/mern-ecommerce/issues"
+  },
+  "homepage": "https://github.com/Trailblazer780/mern-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
